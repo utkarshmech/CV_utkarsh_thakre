@@ -1,6 +1,3 @@
-## About Utkarsh thakre
-My latest CV and Info
-
 ## Draft LOR Prof. V Sangwaan
 
 It is with much pleasure and confidence that I am writing to you in support of Mr. Utkarsh Thakre for his Ph.D. application at the University _ _ _ _ _. He joined Unmesh Mashruwala Innovation Cell (UMIC) aerial robotics division as a trainee under my guidance at the end of his freshman year at IIT Bombay. UMIC is a reputed student-driven technical team that has won several international competitions like ASME Student Design Challenge, IGVC, IARC Simulation Challenge, etc. 
